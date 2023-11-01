@@ -9,6 +9,7 @@ This is a solution to the [Newsletter sign-up form with success message challeng
   - [Overview](#overview)
     - [The challenge](#the-challenge)
     - [Screenshot](#screenshot)
+    - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
   - [Author](#author)
@@ -30,6 +31,11 @@ Users should be able to:
 ### Screenshot
 
 ![](screenshots/screenshotNewsletter.jpg)
+
+### Links
+
+- Solution URL: [https://github.com/MelodyPatin/FrontendMentor-challenge---newsletter-sign-up-page](https://github.com/MelodyPatin/FrontendMentor-challenge---newsletter-sign-up-page)
+- Live Site URL: [https://melodypatin.github.io/FrontendMentor-challenge---newsletter-sign-up-page/](https://melodypatin.github.io/FrontendMentor-challenge---newsletter-sign-up-page/)
 
 ## My process
 
