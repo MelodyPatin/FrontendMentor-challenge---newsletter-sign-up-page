@@ -1,0 +1,164 @@
+body {
+    margin: 0;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    color: hsl(234, 29%, 20%);
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
+
+.illustrationDesktop {
+    display: none;
+}
+
+.illustrationMobile{
+    width: 100vw;
+}
+
+.main {
+    margin: 1.5em;
+}
+
+h1{
+    font-size: 2.5em;
+    font-weight: 700;
+    margin: 0.8em 0;
+}
+
+h2{
+    line-height: 1.7em;
+    margin-bottom: 1.5em;
+}
+
+p {
+    line-height: 1.6em;
+    margin-bottom: 0.6em;
+}
+
+li{
+    display: flex;
+}
+
+.listIcon {
+    margin-right: 1em;
+}
+
+form {
+    margin-top: 2em;
+}
+
+label {
+    font-weight: 700;
+    font-size: 14px;
+    margin-bottom: 0.5em;
+}
+
+input {
+    width: 100%;
+    height: 60px;
+    border-radius: 10px;
+    border: 1px solid hsl(231, 7%, 60%);
+    padding: 1.5em;
+    margin: 0.6em 0;
+    font-size: 16px;
+}
+
+button {
+    width: 100%;
+    height: 60px;
+    border-radius: 10px;
+    margin: 1em 0;
+    background-color: hsl(235, 18%, 26%);
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+    border: none;
+}
+
+.popup {
+    margin: 10em 1.5em 2em 1.5em;
+    display: none;
+}
+
+strong {
+    font-weight: 700;
+}
+
+.dismissButton {
+    margin-top: 15em;
+}
+
+.message{
+    float: right;
+    color: hsl(4, 100%, 67%);
+}
+
+.warning {
+    background-color: hsl(4, 100%, 67%, 0.3);
+    border-color: hsl(4, 100%, 67%);
+}
+
+button:hover {
+    background: linear-gradient(to right, #FF5476, #FF683F);
+}
+
+
+@media screen and (min-width : 900px) {
+
+body {
+    background-color: hsl(235, 18%, 26%);
+}
+
+.illustrationMobile {
+    display: none;
+}
+
+.illustrationDesktop {
+    display: block;
+}
+
+.container{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    padding: 2em;
+    background-color: white;
+    width: 90%;
+    border-radius: 25px;
+    margin: auto;
+    column-gap: 3em;
+}
+
+html, body {
+    height: 100%;
+    display: flex;
+    justify-content: center; /* Centre horizontalement */
+    align-items: center; /* Centre verticalement */
+  }
+
+h1{
+    font-size: 3.5em;
+    margin: 0.5em 0 0.5em 0;
+}
+
+.popup {
+    background-color: white;
+    width: 50%;
+    padding: 3em;
+    border-radius: 25px;
+    margin: auto;
+}
+
+.dismissButton {
+    margin-top: 1.5em;
+}
+
+
+
+
+}
+
+
+
