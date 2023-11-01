@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://github.com/MelodyPatin/FrontendMentor-challenge---newsletter-sign-up-page))
-- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://melodypatin.github.io/FrontendMentor-challenge---newsletter-sign-up-page/))
+- Solution URL: [https://github.com/MelodyPatin/FrontendMentor-challenge---newsletter-sign-up-page](https://github.com/MelodyPatin/FrontendMentor-challenge---newsletter-sign-up-page)
+- Live Site URL: [https://melodypatin.github.io/FrontendMentor-challenge---newsletter-sign-up-page/](https://melodypatin.github.io/FrontendMentor-challenge---newsletter-sign-up-page/)
 
 ## My process
 
